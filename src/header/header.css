@@ -1,0 +1,10 @@
+nav p {
+    color: rgb(116, 116, 45);
+    height: 7vh;
+    margin: 0 177px;
+}
+
+nav{
+    background-color: rgb(209, 202, 193);
+    padding: 1rem;
+}

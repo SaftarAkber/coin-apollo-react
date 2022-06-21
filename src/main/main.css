@@ -1,0 +1,57 @@
+.container {
+  height: 90vh;
+  position: initial;
+}
+
+.parent {
+  background-color: #2a0a4a;
+  position: relative;
+  height: 90vh;
+}
+div .container > img {
+  margin: 40px 0;
+}
+
+.container >h1{
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+.container p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5rem;
+  color: rgb(99, 100, 100);
+  margin: 0;
+}
+.parent .background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 143vh;
+  right: 0;
+}
+.parent .figure {
+  position: absolute;
+  bottom: 0;
+  height: 60vh;
+  left: 35%;
+  right: 25%;
+}
+
+
+.one{
+  justify-content: space-between;
+  display: flex;
+}
+.two{
+  width: 33.3%;
+  color: white;
+}
+
+.logo{
+  display: block;
+}
+
+.logo img{
+  margin: 40px 0;
+}
